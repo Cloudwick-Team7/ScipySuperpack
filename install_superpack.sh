@@ -4,7 +4,7 @@ GIT_FILENAME='git-1.7.7.3-intel-universal-snow-leopard'
 GIT_VOLUME='/Volumes/Git 1.7.7.3 Snow Leopard Intel Universal/'
 GFORTRAN='gcc-42-5666.3-darwin11.pkg'
 SUDO='sudo'
-BRANCH='master'
+BRANCH='10.8'
 
 if [ -z "$VIRTUAL_ENV" ]; then
     # Standard Python env
